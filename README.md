@@ -33,4 +33,4 @@ Technologies Used:
 ```
 This project is beginner-friendly but can be scaled up with additional features for intermediate and advanced developers.
 ```
->>>>>>> 6d936bb04816589338342b62051d5b9e65c01d55
+
